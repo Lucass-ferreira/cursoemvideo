@@ -1,7 +1,7 @@
 # cursoemvideo
 Repositório com exercícios e desafios desenvolvidos durante os cursos de HTML5, CSS3 e JavaScript do Curso em Vídeo.
 
-## 📚 Cursos
+## Cursos
 
 ### HTML5 e CSS3
 
